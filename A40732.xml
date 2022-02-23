@@ -1,0 +1,651 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Fundamentals of the Protestant religion defined according to the Scripture and judgment of the most learned and orthodox divines in England.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 51 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40732</idno>
+            <idno type="STC">Wing F2530</idno>
+            <idno type="STC">ESTC R31721</idno>
+            <idno type="EEBO-CITATION">12247732</idno>
+            <idno type="OCLC">ocm 12247732</idno>
+            <idno type="VID">57004</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40732)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 57004)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1504:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Fundamentals of the Protestant religion defined according to the Scripture and judgment of the most learned and orthodox divines in England.</title>
+               </titleStmt>
+               <extent>[4], 28 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Randall Taylor ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Errata on p. 28.</note>
+                  <note>Imperfect: pages stained and torn with slight loss of print.</note>
+                  <note>Reproduction of original in the Trinity College Library, Cambridge University.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Protestantism --  Apologetic works --  Anglican authors.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:57004:1" rendition="simple:additions"/>
+            <p>THE FUNDAMENTALS OF THE Proteſtant Religion DEFINED, According to the Scripture, and Judg<g ref="char:EOLhyphen"/>ment of the moſt Learned and Ortho<g ref="char:EOLhyphen"/>dox Divines in <hi>England.</hi>
+            </p>
+            <q>
+               <bibl>Iſa. 11. 9.</bibl> 
+               <hi>They ſhall not hurt nor deſtroy in all my holy mountain, for the earth ſhall be full of the knowledg of the Lord, as the waters cover the ſea.</hi>
+            </q>
+            <q>
+               <bibl>Iſa. 2. 2, 3.</bibl> 
+               <hi>And it ſhall come to paſs in the laſt days, that the mountain of the Lords houſe ſhall be eſta<g ref="char:EOLhyphen"/>bliſhed in the top of the mountains, and ſhall be exal<g ref="char:EOLhyphen"/>ted above the hills; and all nations ſhall flow unto it. And many people ſhall go and ſay, Come ye, and let us go up to the mountain of the Lord, to the houſe of the God of Jacob, and he will teach us of his ways, and we will walk in his path; for out of Zion ſhall go forth the law, and the word of the Lord from Jeruſalem.</hi>
+            </q>
+            <q>
+               <bibl>Prov. 10. 21.</bibl> 
+               <hi>The lips of the righteous feed many; but fools dye for want of wiſdom.</hi>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Randall Taylor</hi> near <hi>Stationers-Hall.</hi> 1689.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:57004:2"/>
+            <pb facs="tcp:57004:2"/>
+            <head>To the Chriſtian PROTESTANT READER.</head>
+            <p>
+               <hi>DEAR Reader,</hi> Grace, Mercy and Peace from God our Fa<g ref="char:EOLhyphen"/>ther, and the Lord Jeſus Chriſt, be abundantly be<g ref="char:EOLhyphen"/>ſtowed on you. <hi>Here you have for your eaſe and cheapneſs, and delight, thoſe Truths defined in a plain way, and ſmall Volume, which elſe where are to be found in vast great Volumes, and accompanied with Objections and Anſwers, and mens various Judgements and Critical Phraſes; which Books are out of the reach, it may be, of ſome of your Time to Read, and Money to Buy, and Underſtanding Learn. If you reap any benefit by it, give God the Glory,</hi> 1 Tim. 1. 17. Epheſ. 3. 21. <hi>for I</hi> G. D. <hi>that put it into this Volume, am worthy of none.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:57004:3"/>
+            <pb n="1" facs="tcp:57004:3"/>
+            <head>THE FUNDAMENTALS OF THE Proteſtant Religion Defined, <hi>&amp;c.</hi>
+            </head>
+            <div n="1" type="chapter">
+               <head>CHAP. I. <hi>Of the Scripture.</hi> Luke 14. 45. Acts 17. 11.—18. 18. <hi>the Original or Fountain of Know<g ref="char:EOLhyphen"/>ledg.</hi>
+               </head>
+               <p>THere are theſe Principles concerning the Scripture.</p>
+               <p n="1">1. That they are the very Word of God, or they flow from God by Di<g ref="char:EOLhyphen"/>vine Inſpiration, 2 <hi>Tim. 3. 16. 2 Pet.</hi> 1. 20, 21.</p>
+               <p n="2">2. That they are perfect, without defect or error, every way ſufficient of themſelves alone, to guide us in all things needful to Salvation, without adding ought to them, or taking ought from them, 2 <hi>Tim. 3. 17. Pſalm 19. 7. Gal. 1. 8. Deut. 12. 32. Prov. 30. 6. Revel. 22. 18. Prov.</hi> 8. 7, 8.</p>
+            </div>
+            <div n="2" type="chapter">
+               <pb n="2" facs="tcp:57004:4"/>
+               <head>CHAP. II. <hi>Of God.</hi> Pſalm 72. 18, 19.</head>
+               <p>HItherto concerning the fountain of Knowledg. Now follows the Subject, which is God, who muſt be conſidered, 1. in his Nature. 2. In his Works.</p>
+               <p>Concerning God conſidered in his Nature, there are four Principles.</p>
+               <p n="1">1. That he is, <hi>Deut. 4. 7. 1 Kings 18. 39. Neh. 9. 17. Iſa.</hi> 12. 2.—45. 22. <hi>Mat.</hi> 19 17.</p>
+               <p n="2">2. That God is marvellous glorious in his Nature, <hi>Pſalm 29. 18. Exod, 33. 18, 19 Iſa. 62. 3. 1 Tim.</hi> 6. 16. There are ten Glories in the Nature of God.</p>
+               <p n="1">1. He is Incorporeal, beyond all the perfection of bodily things, <hi>John</hi> 4. 24.</p>
+               <p n="2">2. Eternal, without any beginning, <hi>Pſalm</hi> 90. 2.</p>
+               <p n="3">3. Infinitely Immenſe and Incomprehenſible, 1 <hi>Kings 8. 27. Iſa.</hi> 23. 24.</p>
+               <p n="4">4. Unchangeable, <hi>Jam. 1. 17. Mal. 3. 6. Numb.</hi> 23. 19.</p>
+               <p n="5">5. Omnipotent, ſo as he can do all things, and no<g ref="char:EOLhyphen"/>thing is impoſſible to him, <hi>Pſalm 115. 3. Matth. 19. 26. Job</hi> 42. 2.</p>
+               <p n="6">6. Omniſcient, knows all things univerſally, and per<g ref="char:EOLhyphen"/>fectly, <hi>Pſalm 147. 5. Rom. 11. 33. Heb.</hi> 4. 13.</p>
+               <p n="7">7. Moſt holy, <hi>Pſalm 5. 4. Iſa.</hi> 6. 3.</p>
+               <p n="8">8. All-ſufficient and independent, <hi>Gen. 17. 1. Exod. 3: 14. Rom.</hi> 11. 36.</p>
+               <p n="9">9. Moſt merciful, <hi>Exod. 34. 6, 7. Pſal.</hi> 136. to the end.</p>
+               <p n="10">10. Immortal, can never dye, or ceaſe to be, 1 <hi>Tim.</hi> 1. 17.</p>
+               <p n="3">
+                  <pb n="3" facs="tcp:57004:4"/>3. Three Perſons in the Godhead, <hi>Gen. 1. 26.—3. 22.—11. 7. Iſa. 6. 8. 1 John 5. 7. Matt. 28. 19.—3. 17. 2 Cor. 13. 13. John 14. 16, 17, 18.—15. 26. Iſa.</hi> 6. 3.</p>
+               <p n="4">4. One in Eſſence, <hi>Deut. 6. 4. Iſa. 44. 68. Matth.</hi> 12. 29.</p>
+            </div>
+            <div n="3" type="chapter">
+               <head>CHAP. III. <hi>Of the Creation.</hi> Revel. 4. 11.</head>
+               <p>HItherto of the Nature of God; the Works of God follow. His works are either of Creation or Pro<g ref="char:EOLhyphen"/>vidence. There are five Principles concerning the Creation.</p>
+               <p n="1">1. That the World had a beginning, and was not eternal, <hi>Gen. 1. 1. Prov. 8. 22. Eph.</hi> 1. 4.</p>
+               <p n="2">2. That this World, and all things therein, was made by God, <hi>Acts 17. 24. John 1. 3. Gen. 1. 1. Pſalm 33. 6. Iſa. 40. 28. Col.</hi> 1. 16.</p>
+               <p n="3">3. That all was made of nothing, <hi>Rom. 4. 17. Heb.</hi> 11. 3.</p>
+               <p n="4">4. That God made all things by his word only, <hi>Gen. 1. 6. Heb. 11. 3. Pſalm</hi> 33. 6, 9.</p>
+               <p n="5">5. That all things in the Creation were good, <hi>Gen.</hi> 1. 31.—2. 1.</p>
+            </div>
+            <div n="4" type="chapter">
+               <head>CHAP. IV. <hi>Of the Providence of God.</hi> Rom. 11. 36.</head>
+               <p>THere are Seven Principles that concern Gods Providence.</p>
+               <p n="1">
+                  <pb n="4" facs="tcp:57004:5"/>1. That God ſtill knows and takes continual no<g ref="char:EOLhyphen"/>tice of all things, <hi>Prov. 15. 3. Zech.</hi> 4. 10.</p>
+               <p n="2">2. That God upholds and governs, and diſpoſeth of the world, ſo as all things continue through him, <hi>Pſalm 119. 91. John 5. 17. Acts 17. 25, 28. Pſalm</hi> 104. 14, 21, 22, 28, 30.</p>
+               <p n="3">3. That this Providence of God reacheth to all things, even the ſmalleſt things are governed and up<g ref="char:EOLhyphen"/>held by God, <hi>Rom. 11. 36. Mat. 10. 29, 30. Pſalm</hi> 147. 8, 9, 16, 17.</p>
+               <p n="4">4. That of all Creatures, God hath moſt care and reſpect of Man, <hi>Prov. 8. 31. Pſalm 8. 3, 4. 1 Cor.</hi> 9. 9, 10. and of all Men, moſt care of Believers, 1 <hi>Tim.</hi> 4. 10.</p>
+               <p n="5">5. That the Good and Evil which befal Man, is not without God's Providence, <hi>Amos 3. 6. Geneſis 50. 5. Job 20. 29. Iſaiah 42. 24. 2 Chron. 36. 17. Jer. 24. 6. 1 Kings 11. 14. Judges 3. Jam.</hi> 1. 17. Mark for this preſent Providence, 1 <hi>Sam. 15. 28. Acts 13. 22. Hoſ. 13. 11. Pſal. 75. 7. Luke 1. 11, 12. Iſa.</hi> 22. 15. to the end.</p>
+               <p n="6">6. That he doth whatſoever he pleaſeth in Heaven and Earth, <hi>Pſalm 115. 3. Jonah 1. 14. Eccl.</hi> 3. 14.</p>
+               <p n="7">7. That God's Dominion is everlaſting. <hi>Pſalm</hi> 146. 10. Thus of the Providence of God in general.</p>
+               <p>Now, as it concerns Man in ſpecial, it looks upon the State of Innocency.</p>
+            </div>
+            <div n="5" type="chapter">
+               <head>CHAP. V. <hi>Of Mans firſt Eſtate,</hi> viz. <hi>of Innocency.</hi> Eccl. 7. 29.</head>
+               <p>THere are two Principles that concern Man's firſt Eſtate.</p>
+               <p n="1">1. That God made Man at firſt, after his own Image, <hi>Gen. 1. 26. 1 Cor. 11. 7. Col.</hi> 3. 10.</p>
+               <p n="2">
+                  <pb n="5" facs="tcp:57004:5"/>2. That the Image of God conſiſted chiefly in Knowledg, Holineſs and Righteouſneſs, <hi>Eccl. 7. 29. Eph.</hi> 4. 24.</p>
+            </div>
+            <div n="6" type="chapter">
+               <head>CHAP. VI. <hi>Of the Fall of Man, ſo of the ſecond Eſtate of Man.</hi> Eccl. 7. 29.</head>
+               <p>THe Miſery of Man fallen, muſt be conſidered two ways.</p>
+               <p n="1">1. In the Cauſe of it.</p>
+               <p n="2">2. In the Parts of it.</p>
+               <p n="1">1. The Cauſe of it, was the fall of our firſt Parents; concerning which, are three Principles.</p>
+               <p n="1">1. That our firſt Parents fell and loſt ſpeedily the happineſs in which they were created, <hi>Gen. 3. 7. &amp;c.</hi> And thus they did loſe God, Paradice, and God's Im<g ref="char:EOLhyphen"/>age; and that they loſt it ſpeedily, in that the Devil [one of the fallen Angels, which fell before Man did, <hi>Jude 6. 2 Pet.</hi> 2.] is called a Murderer from the be<g ref="char:EOLhyphen"/>ginning, <hi>John</hi> 8. 44. And the fault being preſently re<g ref="char:EOLhyphen"/>lated after the Story of his Innocency in the Creation, <hi>Gen.</hi> 3. 10.</p>
+               <p n="2">2. That this loſs befel them only, for their own grie<g ref="char:EOLhyphen"/>vous Sin, <hi>Gen. 3. Rom. 5. 12. Eccl.</hi> 7. 29.</p>
+               <p n="3">3. That by their Sin we are all defiled, and depri<g ref="char:EOLhyphen"/>ved of the Glory of God, <hi>Rom.</hi> 5. 12, 18, 19. Of Ori<g ref="char:EOLhyphen"/>ginal Sin, ſee <hi>Job 14. 4. Eph. 2. 3. Gen.</hi> 5. 3. with <hi>Gen. 1. 6. Pſalm 51. 5. Eph. 4. 22. Rom. 7. 7.—8. 13. Jam.</hi> 1. 14. It's ſeat is the whole Man, and the whole of Man, <hi>Rom.</hi> 3. 10, to 18. It hath its Privative part, that is, want of original Righteouſneſs, <hi>Rom. 3. 10, 11, 12. 2dly,</hi> Poſitive, that is, Inclination to all Evil, <hi>Rom.</hi> 3. 14, 15, 16. and <hi>Jam. 1. 14. Rom.</hi> 7. 7.</p>
+            </div>
+            <div n="7" type="chapter">
+               <pb n="6" facs="tcp:57004:6"/>
+               <head>CHAP. VII. <hi>Of Sin.</hi> Rom. 5. 12.</head>
+               <p>HItherto of the Cauſe of our Miſery; the Parts fol<g ref="char:EOLhyphen"/>low, <hi>viz.</hi> 1. Sin<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 2. Puniſhment. The Princi<g ref="char:EOLhyphen"/>ciples concerning Sin, are five.</p>
+               <p n="1">1. That all Men have ſinned, <hi>Pſalm 14. 1, 2, 3. Prov. 20. 9. 1 Kings 8. 46. Rom. 3. 9. Eccl. 7. 20. Jam. 3. 2. 1 John</hi> 1. 8.</p>
+               <p n="2">2. That the nature of Man is ſtained with Sin from the Birth, <hi>Job 14. 4.—15. 14. Pſalm</hi> 51. 5. See before, about original Sin.</p>
+               <p n="3">3. That all Men ſinned in <hi>Adam, Pſal. 51. 5. Rom.</hi> 5. 12.</p>
+               <p n="4">4. That this Infection hath overſpread the whole Na<g ref="char:EOLhyphen"/>ture of Man, hence called the old Man, <hi>Eph.</hi> 4. 22. The Nature of Man is tainted with fourteen Evils.</p>
+               <p n="1">1. The firſt is in <hi>Col.</hi> 1. 13.</p>
+               <p n="2">2. The ſecond, <hi>Eph.</hi> 4. 18.</p>
+               <p n="3">3. The third, <hi>Iſa. 44. 20. 1 John 15. 5. 2 Cor.</hi> 3. 5.</p>
+               <p n="4">4. The fourth, <hi>Rom.</hi> 8. 7.—7. 23.</p>
+               <p n="5">5. The fifth, <hi>Tit. 1. 15. Pſalm</hi> 14. 3.</p>
+               <p n="6">6. The ſixth, Abundance of falſe Principles, <hi>Pſalm</hi> 19. 12.</p>
+               <p n="7">7. The ſeventh, <hi>Rom.</hi> 7. 14, 21.</p>
+               <p n="8">8. The eighth, <hi>Rom.</hi> 3. 10.</p>
+               <p n="9">9. The ninth, <hi>Rom.</hi> 6. 10, 13.</p>
+               <p n="10">10. The tenth, <hi>Rom.</hi> 7. 14.</p>
+               <p n="11">11. The eleventh, 1 <hi>Cor. 8. 7. 1 Pet.</hi> 2. 8.</p>
+               <p n="12">12. The twelfth, <hi>Eph.</hi> 2. 2.</p>
+               <p n="13">13. The thirteenth, Corruption of memory, forget<g ref="char:EOLhyphen"/>ting Good, and retaining Evil.</p>
+               <p n="14">14. The fourteenth, <hi>Jam.</hi> 1. 14.</p>
+               <p n="5">
+                  <pb n="7" facs="tcp:57004:6"/>5. That beſides theſe Sins, which ſtick faſt upon our Natures, every Man is guilty of horrible, and many vile actual Sins <hi>Pſal. 14. 1, 2, 3. Job 15. 15, 16. Rom. 3. 12. Gen. 6. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Iſa. 46. 6. Gen.</hi> 5. 19, 20, 21.</p>
+            </div>
+            <div n="8" type="chapter">
+               <head>CHAP. VIII. <hi>Of the Puniſhment of Sin.</hi> Rom. 5. 12. 2 Theſ. 1. 9. Nah. 1. 3, 6. Job 10. 17.—31. 3. Eph. 2. 3.</head>
+               <p>THe Seventeen ſorts of Puniſhment, which have been inflicted for Mans ſin.</p>
+               <p n="1">1. The firſt in <hi>Gen.</hi> 3. 14.</p>
+               <p n="2">2. The ſecond, <hi>Rom.</hi> 8. 20, 21.</p>
+               <p n="3">3. The third, <hi>Gen.</hi> 3. 16.</p>
+               <p n="4">4. The fourth, <hi>John 3. 36. Nah.</hi> 3. 6.</p>
+               <p n="5">5. The fifth, <hi>Pſalm</hi> 30. 2.</p>
+               <p n="6">6. The ſixth, <hi>Eph. 2. 2. 2. Tim.</hi> 2. 26.</p>
+               <p n="7">7. The ſeventh, <hi>Eph. 2. 1.—4. 18. Ezek.</hi> 11. 19.—36. 26.</p>
+               <p n="8">8. The eighth, <hi>Gen. 3. 19. Deut.</hi> 28. 21, 22.</p>
+               <p n="9">9. The ninth, <hi>Deut.</hi> 28. 16, 17, 18.</p>
+               <p n="10">10. The tenth, <hi>Iſa. 59. 2. Job 31. 2. Acts</hi> 17. 30.</p>
+               <p n="11">11. The eleventh, <hi>Mal. 2. 2. Pſalm 69. 22. Prov.</hi> 1 26.</p>
+               <p n="12">12. The twelfth, <hi>Rom.</hi> 1. 26, 28.</p>
+               <p n="13">13. The thirteenth, <hi>Heb. 10. 27. Iſa.</hi> 33. 14.—65. 13, 14.</p>
+               <p n="14">14. The fourteenth, <hi>Heb.</hi> 2. 15.</p>
+               <p n="15">15. The fifteenth, <hi>Acts</hi> 15. 31.</p>
+               <p n="16">16. The ſixteenth, <hi>Rom.</hi> 5. 12.—6. 23.</p>
+               <p n="17">17. The ſeventeenth, 2 <hi>Theſ. 1. 9. Mat. 25. 41. Iſa. 30. 33. Rom. 2. 8, 9. Luke 16. 23. Rev. 21. 8.—14. 11. Mat.</hi> 22. 13.</p>
+            </div>
+            <div n="9" type="chapter">
+               <pb n="8" facs="tcp:57004:7"/>
+               <head>CHAP. IX. <hi>Of the Eſtate of Grace.</hi> Eph. 1. 4.</head>
+               <p>HItherto of the Eſtate of Man. The third ſtate, is the Eſtate of Grace, which is three ways to be conſidered, 1. In reſpect of the means of the founda<g ref="char:EOLhyphen"/>tion of it. 2. In reſpect of the Subject of the Poſſeſ<g ref="char:EOLhyphen"/>ſſion of it, which is the Church. 3. In reſpect of the degrees of Application, and Manifeſtation of it, which are two, <hi>viz.</hi> Juſtification and Sanctification. 1. The means of foundation of it, is twofold: 1. Election in God. 2. Redemption by Chriſt. Concerning Election, there are theſe five Principles.</p>
+               <p n="1">1. That there was a Choice and Election made by God, <hi>Eph.</hi> 1. 4.</p>
+               <p n="2">2. That this Choice was before the World was, <hi>Eph. 1. 4. Rom.</hi> 9. 11.</p>
+               <p n="3">3. That ſome Men were choſen, not all; if all were taken, how could there be Election? <hi>Mat.</hi> 20. 16.—22. 14.</p>
+               <p n="4">4. That the Cauſe of our Election, is only the free Grace of God, not Faith or Works foreſeen, <hi>Eph. 1. 5. Rom.</hi> 9. 15, 18.</p>
+               <p n="5">5. That God's Election is unchangeable; all the Elect ſhall be ſaved, <hi>Rom. 8. 30. Iſa. 46. 10. 2 Tim. 2. 19. John 6. 37. Matth. 25. 34. Rom. 11. 29. John 10. 28, 29.</hi> It's an eternal Decree of God; whereby he freely and infallibly appointed for the Glory of his Name, to bring ſome Men to Glory by Chriſt, <hi>Eph.</hi> 1. 4, 5, 6.</p>
+            </div>
+            <div n="10" type="chapter">
+               <pb n="9" facs="tcp:57004:7"/>
+               <head>CHAP. X.</head>
+               <p>HItherto of Election. The ſecond fundamental Means of Grace, is Chriſt; concerning whom the Principles reſpect, either, 1. His Perſon. 2. His Office. The Principles concerning his Perſon, looks either, 1. On his Divine, 2. or upon his Humane Na<g ref="char:EOLhyphen"/>ture. The Principles concerning his Divine Nature, are</p>
+               <p n="1">1. That he is very God, proved,</p>
+               <p n="1">1. By the Teſtimony of Scripture, <hi>Iſa. 9. 6. 1 Tim. 3. 16. Rom. 9. 5. John 1. 1. 1 John 5. 20. Geneſis 3. 9, 16. Jer. 23. 6. Heb. 1. 8.</hi>
+               </p>
+               <p n="2">2. By Divine Properties given unto him; as Eternity, <hi>John</hi> 1. 1.—17. 5. Omnipotency, <hi>John 3. 31. Phil.</hi> 3. 21.—4. 13. Omniſciency, <hi>Heb. 4. 13. John 2. 25.</hi> Sa<g ref="char:EOLhyphen"/>viour, <hi>John</hi> 4. 42. King of kings, <hi>&amp;c. Rev.</hi> 19. 16.</p>
+               <p n="3">3. by Divine works done by him, as Creation, <hi>Col.</hi> 1. 16. Forgiveneſs of Sins, <hi>Matth.</hi> 9. 6. working of Mi<g ref="char:EOLhyphen"/>racles, <hi>John</hi> 10. 25. beginning and carrying on the work of Grace in his, <hi>Heb.</hi> 12. 2. and glorifying of them, <hi>John 17. 22. Mat.</hi> 25. 34.</p>
+               <p n="4">4. By Divine Honour due to him; as Adoration, <hi>Pſalm 45. 11. Heb.</hi> 1. 6. and believing in him, <hi>John 14. 1. Acts</hi> 13. 39. praying to him.</p>
+               <p n="5">5. By the Conqueſt, the Goſpel hath made in the Work, 1 <hi>Tim.</hi> 3. 16. and that not by any carnal Power, <hi>Zech.</hi> 4. 6.</p>
+               <p n="6">6. <hi>Matth.</hi> 28. 18.</p>
+               <p n="7">7. <hi>Pſalm</hi> 68. 18. with <hi>Eph.</hi> 4. 9, 10, 11, 12.</p>
+               <p n="8">8. His making the Goſpel efficacious to the Conver<g ref="char:EOLhyphen"/>ſion of Sinners, <hi>Pſalm 45. 6. Acts 11. 18.</hi>
+               </p>
+               <p n="9">9. <hi>Revel.</hi> 1. 18.</p>
+               <p n="10">
+                  <pb n="10" facs="tcp:57004:8"/>10. <hi>John</hi> 10. 28.</p>
+               <p n="11">11. 2 <hi>Tim.</hi> 4. 1. It was needful our Mediator ſhould be God.</p>
+               <p n="12">12. The patient Sufferings of the Saints, <hi>Rev.</hi> 12. 11.</p>
+               <p n="1">1. Becauſe our Evil was ſo great, which no Crea<g ref="char:EOLhyphen"/>ture could take off us, <hi>viz.</hi> 1. Sin. 2. Gods Wrath. 3. Death. 4. Satan's Tyranny.</p>
+               <p n="2">2. Becauſe the greatneſs of our Good, which none but God could reſtore; <hi>viz.</hi> 1. An Obedience to ju<g ref="char:EOLhyphen"/>ſtify many. 2. The Image of God, 1 <hi>Cor. 1. 30. Col.</hi> 3. 10.</p>
+            </div>
+            <div n="11" type="chapter">
+               <head>CHAP. XI. <hi>Of Chriſt's Humane Nature.</hi>
+               </head>
+               <p>THere are four Principles concerning it.</p>
+               <p n="1">1. That the Son of God was incarnate, did aſ<g ref="char:EOLhyphen"/>ſume the Nature of Man, and was very Man amongſt us, <hi>John 1. 14. Heb. 2. 14.</hi>
+               </p>
+               <p n="2">2. That he was not conceived as other Men, but by the Holy Ghoſt, <hi>Luke 1. 35. Matth. 1. 20.</hi>
+               </p>
+               <p n="3">3. That he was born of a Virgin, <hi>Iſa. 7. 14. Matth. 1. 18. Gen. 3. 15.</hi>
+               </p>
+               <p n="4">4. That his Human Nature did ſubſiſt in the Divine Nature, and ſo both made but one Perſon, (as Soul and Body make but one Perſon) <hi>Col. 2. 9. Luke</hi> 1. 35. He is Man,</p>
+               <p n="1">1. That Satisfaction might be made to God in the ſame Nature that offended.</p>
+               <p n="2">2. Becauſe, elſe he could not dye.</p>
+               <p n="3">3. And without that, no Pardon, <hi>Heb.</hi> 9. 22.</p>
+               <p n="4">4. Becauſe a Mediator ſhould be mete to deal be<g ref="char:EOLhyphen"/>tween both Parties, therefore he is God, for the buſineſs
+<pb n="11" facs="tcp:57004:8"/> with the Father and Man, for the buſineſs with Men.</p>
+               <p n="5">5. Might have the right of Kinſman to redeem us, and ſo of Adoption, <hi>Jer. 32. 8. Ruth</hi> 3. 12.</p>
+            </div>
+            <div n="12" type="chapter">
+               <head>CHAP. XII. <hi>Of Chriſt as Mediator.</hi>
+               </head>
+               <p>HItherto concerning the Perſon of Chriſt; his Of<g ref="char:EOLhyphen"/>fice follows. The Principles concerning his Of<g ref="char:EOLhyphen"/>fice, conſider it in the whole, or in the part of it; the whole Office of Chriſt is to be a Mediator; and ſo the Principles which concern the Mediatorſhip, are five.</p>
+               <p n="1">1. That there is but one Mediator between God and Man, <hi>viz.</hi> Chriſt, 1 <hi>Tim. 2. 5. Acts 4. 12. Luke 2. 11.</hi> See his Qualification, <hi>Heb.</hi> 2. 17.—7. 25.</p>
+               <p n="2">2. That our Salvation by his Mediation, is merit, deſert in Man, but Grace in God and Chriſt, 2 <hi>Tim. 1. 9. Tit. 3. 4, 5. Eph. 2. 8. Rom.</hi> 3. 24.</p>
+               <p n="3">3. That this Mediation was from the beginning of the World, and ſhall be to the end, <hi>Heb. 13. 8. 1 Pet. 1. 20. Rev. 13. 8.</hi> The time when this Mediator was given, was,</p>
+               <p n="1">1. If we reſpect God's Decree, he was given before the World, <hi>Eph.</hi> 1. 4.</p>
+               <p n="2">2. If we reſpect the Virtue and Efficacy of his Me<g ref="char:EOLhyphen"/>diation, he was given when need was, from the be<g ref="char:EOLhyphen"/>ginning of the World, <hi>Rev.</hi> 13. 8.</p>
+               <p n="3">3. If we reſpect his Manifeſtation in the Fleſh, he was given in the fulneſs of time, above 1600 years ago, <hi>Gal. 4. 4. 1 Tim.</hi> 2. 6.</p>
+               <p n="4">4. That without the Mediation of Chriſt, no Fleſh can be ſaved, <hi>Acts 4. 12. Pſal. 134. 2. Jam.</hi> 3. 2.</p>
+               <p n="5">5. That by the Mediator, a new Covenant, Agree<g ref="char:EOLhyphen"/>ment, or Contract, was made by God with Man, <hi>Jer.</hi>
+                  <pb n="12" facs="tcp:57004:9"/> 31. 33. <hi>Heb. 8. 13. Rom. 3. 23, 24. Gal.</hi> 3. 21, 22. For the meaning of this,</p>
+               <p>Note, 1. That the Scripture ſpeaks of four, that God hath made one with all Creatures, <hi>Gen.</hi> 9. But of this we have nothing to do here.</p>
+               <p n="2">2. A Covenant between the Father and Son, which one expreſſes thus: Methinks, ſays he, I hear the Fa<g ref="char:EOLhyphen"/>ther ſay, Son, here I have choſen a certain number of fallen Men, they are Enemies to me; if you will aſ<g ref="char:EOLhyphen"/>ſume their Nature, and ſatisfy my Law and Juſtice, and reſtore my Image, bring them to Faith and Re<g ref="char:EOLhyphen"/>pentance, I will pardon, adopt and glorify them. He makes <hi>Heb.</hi> 10. 7. to be Chriſt's anſwer to the Father, ſo the Agreement was made, <hi>Iſa.</hi> 42. 6.</p>
+               <p n="3">3. A Covenant of Works; this was made with all mankind in Paradice, and ſtandeth ſtill in force ſince the fall, as Men are in the Eſtate of Nature; the Con<g ref="char:EOLhyphen"/>ditions whereof on Man's part, is the moral Law.</p>
+               <p n="4">4. Man by his fall being made uncapable of Life by that Covenant, God was pleaſed to make a Cove<g ref="char:EOLhyphen"/>nant or Agreement with Man, by means of the Medi<g ref="char:EOLhyphen"/>ator, and gives unto them the Conditions of it, as Faith, Repentance, ſincere Obedience, <hi>Eph. 2. 8. 2 Tim. 2. 26. Acts</hi> 11. 18.—5. 31. <hi>Ezek.</hi> 36. 26, 27. and eternal Life, and all Good. God ingaged in this Covenant to give to all thoſe that believe, <hi>&amp;c.</hi> which is called the Covenant of Grace; This was called from the fall to <hi>Abrahams</hi> time, the Promiſe; being contrived in thoſe words of Promiſe, <hi>Gen.</hi> 3. 15. from <hi>Abraham</hi> to <hi>Moſes,</hi> the <hi>Covenant, Gen.</hi> 17. 7. From <hi>Moſes</hi> to Chriſt, and ſo ſtill, <hi>the Teſtament,</hi> and as it ſtands in difference from the Covenant of Works, it may be called for all this time, the <hi>Covenant of Grace.</hi>
+               </p>
+               <p n="2">2. That in this Covenant, the Mediator did under<g ref="char:EOLhyphen"/>take for two things.</p>
+               <p n="1">
+                  <pb n="13" facs="tcp:57004:9"/>1. To pay all our Debts, and ſatisfy Gods Juſtice by a Price of infinite Value, <hi>Iſa. 53. 5, 6. Job 33. 24. 1 Tim.</hi> 2. 6.</p>
+               <p n="2">2. To Purchaſe and Merit for us Gods Favour and Kingdom by a moſt abſolute and perfect Obedience, <hi>Eph. 1. 6. Rom. 5. 19. Mat.</hi> 3. 15.</p>
+               <p n="3">3. We muſt underſtand wherein the Covenant of Works and Grace differ and agree.</p>
+               <p n="1">1. They agree in two things.</p>
+               <p n="1">1. Both tendered to us by God.</p>
+               <p n="2">2. Both require a full and perfect Righteouſneſs, as the condition of Eternal Life.</p>
+               <p n="2">2. They differ.</p>
+               <p n="1">1. In the manner of knowing them, the 1. is known. in ſome meaſure by Nature, <hi>Rom.</hi> 2. 15. the 2<hi>d</hi> not, <hi>Col. 1. 26. 1 Cor. 2. 7. 2 Tim.</hi> 1. 10.</p>
+               <p n="2">2. In the Miniſters of both, <hi>John</hi> 1. 17.</p>
+               <p n="3">3. In the means attaining the end common to both; the firſt requires doings for Life, <hi>Rom.</hi> 10. 5. The ſe<g ref="char:EOLhyphen"/>cond, Faith, <hi>Rom. 3. 21.—4. 5. Acts 16. 31.—13. 39. John</hi> 3. 16. The Law requires perfect, and perpetual, and univerſal Righteouſneſs in our own Perſons, <hi>Gal.</hi> 3. 10. The Goſpel offers this perſonal, perfect, perpetual, univerſal Righteouſneſs of another to be received, and is ours by Faith, <hi>Rom. 8. 3, 4.—3. 22.—5. 19.—10. 4. Dan. 9. 24. 1 Pet. 1. 19. Matth.</hi> 3. 15.</p>
+               <p n="4">4. In effect, Efficacy; the firſt requires Works, but gives no Power to do them, <hi>Deut.</hi> 29. 4. The ſecond gives the Spirit which works what God requires, <hi>Jer. 31. 33. Ezek. 36. 27. 1 Cor.</hi> 3. 9.</p>
+            </div>
+            <div n="13" type="chapter">
+               <pb n="14" facs="tcp:57004:10"/>
+               <head>CHAP. XIII. <hi>Of the Prophetical Office of Chriſt,</hi> Deut. 18. 18.</head>
+               <p>HItherto of the Principles that look on the Office of Chriſt; in the whole, the Principles that con<g ref="char:EOLhyphen"/>cern the Parts of his Office, follow. There are three Parts of the Offices of Chriſt.</p>
+               <p n="1">1. His Prophetical.</p>
+               <p n="2">2. Prieſtly.</p>
+               <p n="3">3. Kingly. This Diviſion may be proved.</p>
+               <p n="1">1. By the Degrees of Man's miſery; which is, 1. Ig<g ref="char:EOLhyphen"/>norance. 2. Unrulineſs. 3. Guiltineſs; as a Prophet heads the firſt, as a King the ſecond, and as a Prieſt the third.</p>
+               <p n="2">2. By the Parts of the Typical Anointing in the <hi>Old Teſtament,</hi> which was threefold, 1. of Prophets. 2. Prieſts. 3. Kings.</p>
+               <p n="1">1. Of his Prophetical Office; where,</p>
+               <p n="1">1. What it is.</p>
+               <p n="2">2. Parts of it.</p>
+               <p n="3">3. The manner of executing of it.</p>
+               <p n="1">1. The Prophetical Office of Chriſt, is that Work, by which he inſtructs his Church concerning the Will of God, eſpecially his Secret Council about redeeming Mankind; the Parts are two.</p>
+               <p n="1">1. External, Promulgation of Doctrine, which hath three things in it;</p>
+               <p n="1">1. The Preaching of the Goſpel, or the Doctrine concerning God's Grace or Redemption by Chriſt, <hi>Iſa. 61. 1. Luke</hi> 4. 18.</p>
+               <p n="2">2. The Interpretation of the Law, according to the mind of the Lawgiver, <hi>Matth. 5. 17. &amp;c.</hi>
+               </p>
+               <p n="3">3. Prediction of things to come, <hi>Matth. 24. 2, &amp;c.</hi>
+               </p>
+               <p n="2">
+                  <pb n="15" facs="tcp:57004:10"/>2. The internal Illumination of the heart, or the making Doctrine effectual by the Spirit, renewing and inclining the Mind and Will of Man, <hi>John 5. 25. 1 John</hi> 2. 20, 27.</p>
+               <p n="3">3. Of executing it, was,</p>
+               <p n="1">1. Mediately, by Patriarchs and Prophets in the <hi>Old Teſtament.</hi>
+               </p>
+               <p n="2">2. Immediately, and that either by his Divine, or both Natures; by his Divine, he inſtructed the Patriarchs and Prophets in the <hi>Old Teſtament</hi> by Viſions, Oracles and Dreams; by both Natures, by the word of mouth in the <hi>New Teſtament,</hi> he himſelf taught amongſt Men, 1 <hi>Pet. 3. 19. John</hi> 1. 5. The Principles concern<g ref="char:EOLhyphen"/>ing this Office, are Seven.</p>
+               <p n="1">1. That in Chriſt all was; ſee <hi>Col.</hi> 2. 3.</p>
+               <p n="2">2. That it's Chriſt only that reveals the Truth out of the Boſom of the Father, <hi>Matth. 11. 27. John</hi> 1. 18.—6. 68.</p>
+               <p n="3">3. That Chriſt hath himſelf taught Doctrine amongſt Men, <hi>Heb. 1. 2. Luke</hi> 4. 18.</p>
+               <p n="4">4. That he hath revealed the whole Council of God, <hi>John 15. 15. Deut. 18. 18. John</hi> 17. 8.</p>
+               <p n="5">5. That the Miniſtry in the Church, is by Authori<g ref="char:EOLhyphen"/>ty from Chriſt, <hi>Matth. 23. 24. Eph. 4. 11. 2 Cor.</hi> 5. 19.</p>
+               <p n="6">6. That the whole Efficacy of Doctrine recorded in the Scripture, or thence taught unto Men, depends on Chriſt, 2 <hi>Pet. 1. 20, 21. 1 Cor.</hi> 3. 9.</p>
+               <p n="7">7. That it belongs generally to all Nations, <hi>Iſa. 49. 6. Zech. 9. 10.</hi>
+               </p>
+            </div>
+            <div n="14" type="chapter">
+               <pb n="16" facs="tcp:57004:11"/>
+               <head>CHAP. XIV. <hi>Of the Prieſtly Office of Chriſt.</hi> Pſalm 110. 4. Heb. 6. 20.—4. 15.—9. 12.</head>
+               <p>WHich is that part of Chriſt's Office, whereby he maketh Satisfaction to God for Men. This Office in the Execution of it, hath three Parts, or there be three things which Chriſt muſt do, as the Prieſt of the Church.</p>
+               <p n="1">1. He muſt obey God's Law perfectly.</p>
+               <p n="2">2. Make Expiation for our Sins, by Sacrificing to God.</p>
+               <p n="3">3. Make Interceſſion for us.</p>
+               <p n="1">1. Concerning Chriſts Obedience; there are four things</p>
+               <p n="1">1. That he was without Sin in his Nature, <hi>John 8. 46. 2 Cor. 5. 21. 1 Pet. 1. 19.—2. 22. Heb. 4. 15.</hi>
+               </p>
+               <p n="2">2. That he fulfilled the Law of God perfectly in all his Actions, <hi>Acts</hi> 2. 27.—13. 35.—3. 14.—4. 27. 1 <hi>John</hi> 2. 20</p>
+               <p n="3">3. That he fulfilled the Law not only for himſelf, but for us in our room and ſtead, and for our ſakes, <hi>Rom.</hi> 8. 3, 4.—10 4.—5. 18, 19.</p>
+               <p n="4">4. That this Righteouſneſs of his is everlaſting; that is ſuch a righteouſneſs as cannot be loſt; ſo better than <hi>Adams</hi> in the Eſtate of Innocency, <hi>Dan.</hi> 9. 24.</p>
+            </div>
+            <div n="15" type="chapter">
+               <head>CHAP. XV. <hi>Of the Expiation of Sin, which was by the Paſſion of Chriſt.</hi> Eph. 5. 2. <hi>Col.</hi> 1. 20. Heb. 9. 27.</head>
+               <p>COncerning Chriſt's Paſſion, there are ſix Principles. 1. That the Paſſion of Chriſt was by the decree and everlaſting fore-appointment of God, <hi>Acts 2. 23. 1 Pet.</hi> 1. 20.</p>
+               <p n="2">
+                  <pb n="17" facs="tcp:57004:11"/>2. That the Sufferings of Chriſt were in our room and ſtead, <hi>i. e.</hi> for our Sins, and for our Sakes, 1 <hi>Pet. 2. 24. Iſa. 53. 6, 5, 8, 12. Rom. 4. 25. 1 Cor. 5. 7.</hi>
+               </p>
+               <p n="3">3. That by his Paſſion he did atone, pacify God, and make Expiation for all our Sins, <hi>Eph. 5. 2. Mat. 3. 17. 1 John 2. 2.</hi>
+               </p>
+               <p n="4">4. That in his own Perſon he fulfilled and finiſhed all Sufferings needful for our Salvation; he did at once for all the Elect, <hi>1 Pet. 3. 18. Heb. 9. 28.—10. 11, 12.</hi>
+               </p>
+               <p n="5">5. That the Paſſion of Chriſt is a ſufficient price for the Sins of the whole World, <hi>John 1. 29.</hi>
+               </p>
+               <p n="6">6. That Chriſt ſuffered extreme things for us; ſee <hi>John 17. 5. Luke 21. 2. Matt. 8. 20.—2. 14. Mark 3. 6, 7. John 11. 54.—8. 59. 2 Cor. 5. 21. Heb. 2. 18.—4. 15. Iſa. 53. 12.</hi>
+               </p>
+            </div>
+            <div n="16" type="chapter">
+               <head>CHAP. XVI. <hi>Of Chriſt Interceſſion; that third Part of his Prieſthood.</hi> Rom. 8. 34.</head>
+               <p>THere are four Principles.</p>
+               <p n="1">1. That he ſits at God's right Hand, and does it for us, <hi>Rom. 8. 34. Heb. 7. 25.</hi>
+               </p>
+               <p n="2">2. That we have no other Interceſſor in Heaven, but Chriſt, <hi>1 Tim. 2. 5, 6. Iſa. 59. 16.</hi>
+               </p>
+               <p n="3">3. That it's perpetual; he ſo doth it once, as he will never fail to do it in all Ages, <hi>Heb. 7. 25, 28.</hi>
+               </p>
+               <p n="4">4. That he makes Interceſſion only for the Elect, <hi>John</hi> 17. 9. For the Explanation of theſe Principles, three things muſt be opened.</p>
+               <p n="1">1. The Acceptation of the word; it ſignifies, 1. Pray<g ref="char:EOLhyphen"/>er, <hi>1 Tim. 2. 1. 2ly,</hi> Complaint, <hi>Rom. 11. 2. Acts 25. 24. 3ly,</hi> Uſually that part of Chriſts Mediation, in which he appears before God, to prevent his Diſpleaſure towards the Elect, <hi>Rom. 8. 34.</hi>
+               </p>
+               <p n="2">
+                  <pb n="18" facs="tcp:57004:12"/>2. How many ways Chriſt make Inteceſſion for us, <hi>viz.</hi> 7.</p>
+               <p n="1">1. He preſents himſelf before God with his Merits, tendering his Sacrifice for our Satisfaction, <hi>Heb.</hi> 9. 24.—9. 12. and ſo pacifying God towards us, <hi>Jer.</hi> 30. 13.</p>
+               <p n="2">2. He prayed, and ſtill doth pray for us; all his Prayers on Earth, were a part of his Interceſſion; and he ſtill prays for us in Heaven, <hi>Rom. 8. 34. Heb. 7. 25.</hi>
+               </p>
+               <p n="3">3. He offers up our Prayers and Praiſes to God, <hi>Rev. 8. 3, 4.</hi>
+               </p>
+               <p n="4">4. Undertakes for us, before God gives his Word for, us, that we ſhall eſchew Sin by his Grace, and not provoke God any more, as we have done, <hi>John</hi> 17. 6.—25. 26.</p>
+               <p n="5">5. He pleads our Cauſe as an Advocate, and Removes, and Nonſuites all Accuſations, which Juſtice, Law, Conſcience, Men or Devils, may make againſt us to God, <hi>Rom. 8. 34. 1 John 2. 1.</hi>
+               </p>
+               <p n="6">6. Poureth out upon us his Spirit of Interceſſion, which cauſes us what to do, ſee <hi>Rom. 8. 26, 15. Gal. 4. 6, 7.</hi>
+               </p>
+               <p n="7">7. He ſprinkleth his Blood upon us by Application of his Merits to us, which cryes and makes Interceſſion for us, <hi>Heb. 12. 24.</hi>
+               </p>
+               <p n="3">3. In which Nature he makes Interceſſion? it's an<g ref="char:EOLhyphen"/>ſwered in both, as a Man praying, it's with his Soul and Body he prays, if right vocal Prayer; ſo Chriſt pleads as one Perſon, tho two Natures.</p>
+            </div>
+            <div n="17" type="chapter">
+               <head>CHAP. XVII. <hi>Of Chriſt's Kingly Office.</hi>
+               </head>
+               <p>COncerning which, there are Seven Principles.</p>
+               <p n="1">1. That he overcame Sin, Death, Grave and Hell, and roſe again from the Dead, and aſcended in<g ref="char:EOLhyphen"/>to Heaven, and ſitteth on the right hand of God, <hi>Rom.</hi> 4.
+<pb n="19" facs="tcp:57004:12"/> 25. 1 <hi>Cor. 15. 54. Joh. 20. 12. Mark 16. 6, 14. 2 Tim. 2. 8. Mark. 16. 19. Luke 24. 51. Acts 1. 9. Eph. 4. 8, 9, 10. Heb. 1. 9.—8. 1. Eph. 1. 20, 21. Col. 3. 1.</hi>
+               </p>
+               <p n="2">2. That Chriſt, who puchaſed the Church by his Blood, is appointed of God, the King, and Head of the Church, and Prince over the People of God, having all Power in his own hands, <hi>Pſal. 2. 6. Mat. 28. 18. Col. 1. 18. Rev. 19. 16.</hi>
+               </p>
+               <p n="3">3. That he is likewiſe appointed to be the Lawgiver to his Church, and the Judg of the World, <hi>Jam. 4. 12. John 5. 12. Acts 10. 24.—17. 31. 2 Tim. 4. 1.</hi>
+               </p>
+               <p n="4">4. That his Government extended to the People of all Nations, <hi>Pſal. 2. 8. Matth. 28. 19. Phil. 2. 10, 11.</hi>
+               </p>
+               <p n="5">5. That <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Kingdom is not of this World, but a Spiri<g ref="char:EOLhyphen"/>tual and Coeleſtial Kingdom, <hi>John 18. 36. Rom. 14. 17.</hi>
+               </p>
+               <p n="6">6. That he will be with his to the end of the World, <hi>Matth. 28. 19. 20.</hi>
+               </p>
+               <p n="7">7. That his Kingdom is an everlaſting Kingdom, <hi>Luke 1. 33. Heb. 12. 28. Dan. 2. 44.—7. 14.</hi> For the Explication of this Office of Chriſt, note four things.</p>
+               <p n="1">1. That Chriſt ſought for his Kingdom, and over<g ref="char:EOLhyphen"/>came Satan, Sin, Death, and Hell, and reſcued his Sub<g ref="char:EOLhyphen"/>jects from their Thraldom, 1 <hi>Cor. 15. 54, 55. Col. 2. 15. Heb. 2. 14.</hi> and this Victory he accompliſhed, and proclaimed in his Reſurrection.</p>
+               <p n="2">2. The Kingly Glory of Chriſt conſiſted in two things. The</p>
+               <p n="1">1. Was the Glorification of his Humane Nature, be<g ref="char:EOLhyphen"/>ing diſpoſſeſſed of all Infirmities accompanying our Na<g ref="char:EOLhyphen"/>ture; ſo as he ceaſed to be hungry, to be weary, <hi>&amp;c.</hi> nor could he ſuffer any more, or dye.</p>
+               <p n="2">2. That the perfecting of his humane Nature with all the degrees of coeleſtial Gifts and Endowments, could poſſibly befal a created Nature, both in Body and Mind; his glorified Body ſurpaſſing the Sun for brightneſs, <hi>Matth. 17. 2. Acts 9. 3.—22. 11.</hi>
+               </p>
+               <p n="2">
+                  <pb n="20" facs="tcp:57004:13"/>2. His triumph over his Enemies, which he acted two ways.</p>
+               <p n="1">1. In thoſe frequent Manifeſtations after his Reſur<g ref="char:EOLhyphen"/>rection.</p>
+               <p n="2">2. His Aſcenſion, leading with him Captivity Captive, <hi>Pſalm</hi> 68. 18.</p>
+               <p n="3">3. The taking Poſſeſſion of his Kingdom, and this he did when he ſat at the right Hand of God, <hi>Heb. 1. 8. Eph.</hi> 1. 20, 21.</p>
+               <p n="4">4. The Adminiſtration of his Kingdom, of which he is now poſſeſt. And this hath four things in it.</p>
+               <p n="1">1. The calling and gathering together, both <hi>Jews</hi> and <hi>Gentiles,</hi> which belong to the Election of God, <hi>Rom. 8. 30. Eph. 4. 11, 12. Iſa.</hi> 11. 11, 12.</p>
+               <p n="2">2. The preſcribing Laws, as the only Lawgiver of the Church; this he doth, when he propoundeth unto his Subjects the Rules both of believing and living by the Word and Miniſtry of the ſame, adding thereunto the Work of the Spirit, writing his Laws on their Hearts, <hi>Jam. 4. 12. Jer. 31. 33. 2 Cor.</hi> 3. 17, 18.</p>
+               <p n="3">3. The Donation of Gifts, and enabling Men for the Kingdom of God, <hi>Eph. 4. 8. Phil.</hi> 1. 29.</p>
+               <p n="4">4. The Execution of Juſtice, and ſo he doth Juſtice, 1: Among his own Subjects; and ſo he doth them Juſtice,</p>
+               <p n="1">1. In juſtifying them from their Sins, <hi>Rom.</hi> 5. 19.</p>
+               <p n="2">2. Giving reward among them, both in Spiritual and Temporal things, 1 <hi>Cor.</hi> 3. 22.</p>
+               <p n="3">3. By keeping them in a State of Grace, ſo as they fall not away, <hi>Heb.</hi> 12. 2.</p>
+               <p n="2">2. Againſt his Enemies, whom he,</p>
+               <p n="1">1. Reſtrains and defeats them in their Counſels, <hi>Rev. 20. 1. 2 Job</hi> 5. 12, 13.</p>
+               <p n="2">2. Subdues them, either by converting them, <hi>Pſal.</hi> 45. 6. or confounding them partly by Judgements here,
+<pb n="21" facs="tcp:57004:13"/> and caſting them to Hell at laſt, 2 <hi>Theſ.</hi> 1. 9. The Ad<g ref="char:EOLhyphen"/>miniſtration of his Kingdom he executes partly in this Life, and partly in the World to come; the one in his Kingdom of Grace, the other in his Kingdom of Glory; what is begun here, is fully made compleat in the other World.</p>
+            </div>
+            <div n="18" type="chapter">
+               <head>CHAP. XVIII. <hi>Of the Church.</hi> Eph. 1. 12.</head>
+               <p>HItherto, of the Means of Grace; the Subject of Grace follows, and that is the Church. The Church in General is the whole Multitude of Men ele<g ref="char:EOLhyphen"/>cted to eternal Life by God in Chriſt. Concerning the Church in general, there are theſe ſeven Principles.</p>
+               <p n="1">1. That it's a Company of Men ſeparated from the World, gathered by the voice of Chriſt; the word ſig<g ref="char:EOLhyphen"/>nifies ſuch as are gathered together by the Voice of God's Cryers, <hi>John</hi> 17. 9, 14.</p>
+               <p n="2">2. That ſhe is one, <hi>Eph. 4. 4. Cant.</hi> 6. 10. or 3. <hi>Gal.</hi> 3. 28. one, in many reſpects ſo, becauſe all the Godly are united myſtically in one Body, <hi>Rom. 12. 5. Eph.</hi> 4. 14, 16.</p>
+               <p n="3">3. That ſhe is knit to Chriſt her head, by an indiſolva<g ref="char:EOLhyphen"/>ble Union, <hi>Col. 1. 18.—2. 19. 1 Cor. 12. 27. Eph.</hi> 1. 22, 23. One with Chriſt in Spirit, <hi>John</hi> 4. 13.</p>
+               <p n="4">4. That ſhe is Holy, <hi>Eph. 5. 2, 7. Tit. 3. 5. 1 Pet. 2. 9. Dan.</hi> 7. 18.</p>
+               <p n="1">1. By imputed and imparted Holineſs, Righteouſ<g ref="char:EOLhyphen"/>neſs, <hi>Rom. 3. 21, 22. Heb.</hi> 10. 10.</p>
+               <p n="2">2. By ſeparation from this World, 2 <hi>Cor. 6. 16, 17. Rom. 12. 2. John</hi> 15. 19.</p>
+               <p n="3">3. By Conſummation of all Holineſs in the other World, <hi>Eph.</hi> 5. 27.</p>
+               <p n="5">5. She is Catholick, <hi>i. e.</hi> Univerſal.</p>
+               <p n="1">
+                  <pb n="22" facs="tcp:57004:14"/>1. In reſpect of time, all the Godly being Members of this one Body, tho they lived in all the ſeveral Ages, ſince the beginning of the World.</p>
+               <p n="2">2. In reſpect of place, becauſe all the Godly, both in Heaven and Earth, are all of this one Body, <hi>Eph.</hi> 1. 10. And ſo from all parts of the World is the Church gathered; all the particular Churches in the World are but Members of this Church Univerſal; of particular Churches, read <hi>Rom. 1. 1. 1 Cor. 1. 1. 2 Cor. 1. 1. Gal. 1. 1. Eph. 1. 1. Phil. 1. 1. Col. 1. 1. 1 Theſ. 1. 1. 2 Theſ. 1. 1. Acts 9. 31.—15 41. Rom. 16. 4. 16. 1 Cor. 7. 17.—16. 19.—14. 33.—16. 1. 1 Theſ. 2. 14. 2 Cor. 8. 1. Gal. 1. 2, 20. Rom. 16. 19. Rev. 1. 4, 20. 2 Cor. 8. 18, 23.—12. 13.—2. 7, 11, 17, 29.—36. 13, 22, 23.—22. 16.</hi> Of the Officers of it. 1. Paſtor. 2. Teacher, 1 <hi>Tim. 3. 28.</hi> to 13. <hi>Tit. 1. 5. Acts 20. 17, 18. 1 Pet. 5. 1, 2, 3. Phil. 1. 1. 1 Tim. 5. 17. Eph. 4. 11, 12.—1. 22, 23. Rom. 12. 7, 8. 1 Cor. 12. 8.</hi> or 28. 2 <hi>Tim. 4. 1. Tit. 1. 9. 3.</hi> Ruling Elders. 1 <hi>Cor. 12. 28. 1 Tim. 5. 17. Rom. 12. 8. Heb. 13. 17. 4.</hi> Deacons, <hi>Acts 6. 2, 3, 6.—4. 35. Rom. 12. 8. Phil. 1. 1. 1 Tim. 3. 8. 1 Cor. 12. 28.—16. 1, 2, 3.—7. 17.</hi> Note, That teaching and ruling Officers have ſeveral Names given them, tho their work Power be the ſame: See 1 <hi>Cor. 12. 28. Eph. 4. 11. 1 Tim. 5. 17. Acts 14. 23. 1 Pet. 5. 1. Acts 20. 17, 28. Phil. 1. 1. Tit. 1. 5. Heb. 13. 17.</hi> The Or<g ref="char:EOLhyphen"/>dinances.</p>
+               <p n="1">1. Teaching, <hi>Matth.</hi> 28. 19.</p>
+               <p n="2">2. Baptiſm, <hi>Matt. 28. 19. 1 Cor. 7. 14. Gal. 3. 9, 14. Rom. 11. 16. Eph. 2. 7.—3. 6. 1 Cor. 1. 16.</hi> with <hi>Exod.</hi> 1. 1. with <hi>Gen.</hi> 46. 5.</p>
+               <p n="3">3. Lords Supper, <hi>Matt. 26. 26. 1 Cor. 11. 25. Acts</hi> 2. 46.—20. 7.</p>
+               <p n="4">4. Excommunication, 1 <hi>Cor. 5. 4. 2 Theſ.</hi> 3. 6.</p>
+               <p n="5">5. Singing Pſalms, <hi>Eph. 5. 19. Col. 3. 16. Matth. 26. 30. Acts 16. 25. 1 Cor. 14. 15. Jam. 5. 13.</hi>
+               </p>
+               <p n="6">
+                  <pb n="23" facs="tcp:57004:14"/>6. Conference or brotherly Teaching, <hi>Heb. 3. 13.—10. 25. Jude 20. 1 Theſ. 5. 11. Mal. 3. 17. Acts 18. 26. 1 Cor. 12. 7.—14. 3, 31. 1 Pet. 4. 10.</hi>
+               </p>
+               <p n="7">7. Prayer, <hi>Acts</hi> 12. 5.</p>
+               <p n="8">8. Reading, 1 <hi>Theſ. 5. 27. Col. 4. 6. Acts 13. 27. 1 Tim. 4. 15.</hi> Their Duties as Relations, <hi>&amp;c.</hi> as Husbands, <hi>Eph. 5. Col. 3. Tit. 3. 1 Pet. 3. 1 Cor. 7. Deut. 22.—24. Prov. 9.</hi> Wives, <hi>Eph. 5. Gen. 3. 1 Pet. 3. Deut. 22.—24. Prov. 31. 1 Cor. 7. Col. 3. Tit. 2. 1 Tim. 2. 12.</hi> Parents, <hi>Deut. 11.—4.—6. Prov. 6.—7.—1.—13.—22.—23. 1 King. 21. Gen. 18. Pſ. 78. Eph. 6. Col. 3.</hi> Children, <hi>Lev. 20. Col. 3. Eph. 20.—21. Deut. 5. Prov. 20.—5.—8. Lev. 19. Mat. 15. 1 Pet. 5.</hi> Maſters, <hi>Job 31. Ex. 21. Lev. 19.—26.—15. Pro. 29. Jer. 34. Eph. 6. Col. 4.</hi> Servants, <hi>Col. 3. Eph. 5. 1 Tim. 6. Tit. 2. 1 Pet. 2. Mat. 8.</hi> Neighbours, <hi>Exod. 20. Luke 10.</hi> as Magiſtrates, <hi>Rom. 13. 2 Pet. 3. Prov. 8. Pſ. 2. Iſ. 19. Pſ. 122.—75. Ez. 7. Deut. 13. 2 King. 18. 1 Chr. 13. 2 Kings 23. 2 Chr. 34.—33.—19.—29.—30. Iſa. 49. 1 Tim. 2. Pſal. 82. Job 29.—31.—26. Jonah 3. Exod. 18. 1 Pet. 2. 1 Kings 20. Deut. 17. 2 Chr. 9. Deut. 31. Judg. 21. Deut. 16.</hi> They muſt be obeyed, when they command that which is lawful, <hi>Rom. 13. 2 Pet. 3. Tit. 3.</hi> But not when they command that which is ſinful, <hi>Dan. 3. 16.—6. 10. Acts 4. 20.—5. 29, 42.</hi>
+               </p>
+               <p n="3">3. The Church is Univerſal in reſpect of Perſons, <hi>Rev. 5. 9, 10. Gal. 3. 28.</hi>
+               </p>
+               <p n="6">6. That ſhe is Militant, that is, in this Life expoſed to Croſſes and Afflictions, <hi>&amp;c. Rom. 12. 11. Eph. 6. 12. 2 Tim. 4. 7, 8. Acts 14. 23.</hi> Chriſt will have it ſo, 1. For his own Sake, that he might ſhew how he hates Sin, even in his own; and Juſtice in afflicting them; and Glory, and Power, and Mercy, in delivering them. 2. For their ſakes, 1 <hi>Cor. 11. 31. Rom. 8. 28.</hi> 3. For his Enemies ſake, that they may know, they ſhall not not be ſpared, 1 <hi>Pet.</hi> 4. 17.</p>
+               <p n="7">
+                  <pb n="24" facs="tcp:57004:15"/>7. That ſhe is invincible, <hi>Matth. 16. 18. Rom. 8. 37, 38, 39. 1 Pet. 5. 10.</hi>
+               </p>
+            </div>
+            <div n="19" type="chapter">
+               <head>CHAP. XIX. <hi>Of Juſtification.</hi>
+               </head>
+               <p>HItherto of the Subject of Grace, the Church; the degrees of Grace in this Life, are two, Juſtifica<g ref="char:EOLhyphen"/>tion and Sanctification; concerning Juſtification there are nine Principles.</p>
+               <p n="1">1. That all Men have ſinned, and are guilty before God naturally, and in themſelves, <hi>Rom. 3. 9, 23. Gal. 3. 22.</hi>
+               </p>
+               <p n="2">2. That by Mens own Works no Fleſh can be ju<g ref="char:EOLhyphen"/>ſtified, <hi>Rom. 3. 20. Gal. 2. 16, 21. Tit. 3. 5. Gal. 3. 11. Phil.</hi> 3. 9. before God.</p>
+               <p n="3">3. That the Righteouſneſs that maketh us juſt, is in Chriſt, and being made ours by Imputation, <hi>2 Cor. 5. 21. 1 Cor. 1. 30. Phil. 3. 9. Rom. 3. 21, 22.—4. 7. Iſa. 45. 24. Jer. 23. 6. Dan. 9. 24. Rev. 19. 8. Heb. 11. 7. Luke 15. 22.</hi>
+               </p>
+               <p n="4">4. That this Righteouſneſs is made ours only by Faith, and ſo we are juſtified only by Faith, as it ap<g ref="char:EOLhyphen"/>prehends and lays hold upon, and relies on the Righ<g ref="char:EOLhyphen"/>teouſneſs of Chriſt, <hi>Rom. 3. 28. Heb. 11. 7. Rom. 3. 22. Gal. 2. 16. Rom. 1. 16, 17. Acts 13. 39.</hi> Rom. 5. 1.</p>
+               <p n="5">5. That this Faith is Gods Work and Gift, <hi>John 6. 29, Phil. 1. 29. Eph. 2. 8. Heb. 12. 2.</hi>
+               </p>
+               <p n="6">6. That all Men have not Faith, <hi>2 Theſ. 3. 2. Iſa. 53. 1.</hi> Hence is that in <hi>Tit. 1. 1.</hi>
+               </p>
+               <p n="7">7. That there is but one kind of Faith, by which all the elect are juſtified, <hi>Eph. 4. 5.</hi>
+               </p>
+               <p n="8">8. That it's of meer Grace, <hi>Rom. 3. 24. Tit. 3. 5, 6, 7.</hi>
+               </p>
+               <p n="9">
+                  <pb n="25" facs="tcp:57004:15"/>9. That being juſtified by Faith, we have Peace and Pardon, and accounted juſt, and dealt with as ſuch, <hi>Rom. 5. 1.—5. 19.</hi> Others thus.</p>
+               <p n="1">1. It's a gracious Act of God, whereby he impu<g ref="char:EOLhyphen"/>teth the Righteouſneſs of Chriſt to all Believers, and for the Merit of Chriſt, and freely abſolveth them from all their Sins, and reputeth them juſt unto Life, and deals with them as ſuch, <hi>Rom. 3. 22. Pſal. 32. 1, 2. 2 Cor. 5. 21.</hi>
+               </p>
+               <p n="2">2. That it's twofold Legal, <hi>Rom. 2. 3.</hi> So none can be juſtified, <hi>Jam. 3. 2. Gal. 2. 16.</hi> Evangelical, <hi>Rom. 5. 18.</hi>
+               </p>
+               <p n="3">3. That the matter of our Juſtification is Chriſt's active and paſſive Obedience, together with his ori<g ref="char:EOLhyphen"/>ginal Righteouſneſs, <hi>Gal. 3. 10. Rom. 5. 19.</hi>
+               </p>
+               <p n="4">4. That Chriſt's original Righteouſneſs is part of his Satisfaction, and of our Juſtification.</p>
+               <p n="1">1. Chriſt's original Righteouſneſs anſwers our ori<g ref="char:EOLhyphen"/>ginal Sin.</p>
+               <p n="2">2. The Law requires not only actual Obedience, but alſo original and full Conformity.</p>
+               <p n="3">3. That a whole Chriſt is ours, and whatſoever he was made, did, or was, that he was made, did, and was for us, <hi>Iſa. 9. 6. 1 Cor.</hi> 1. 30.</p>
+               <p n="5">5. That his active Obedience, <hi>i. e.</hi> Obedience of his Life, was neceſſary to our Juſtification.</p>
+               <p n="1">1. Becauſe, as his Paſſive, or Obedience of his Death, was neceſſary for the Expiation of our Sin; ſo the other for the obtaining like Life Eternal, <hi>Lev. 18. 5.</hi> The ſecond frees us from Hell and Puniſhment. The firſt gives us right to Heaven.</p>
+               <p n="2">2. That as the Law bindeth to Puniſhment, threat<g ref="char:EOLhyphen"/>ning Death to them that break it, <hi>Deut.</hi> 29. 26. So it bindeth to Obedience, promiſing Life to them that keep it, <hi>Luke 10. 28. Lev. 18. 5.</hi>
+               </p>
+               <p n="3">
+                  <pb n="26" facs="tcp:57004:16"/>3. As Chriſt's paſſive, anſwers Mans guilt of Sin and Damnation, ſo his other anſwers Mans want of Righte<g ref="char:EOLhyphen"/>ouſneſs, <hi>Rom. 3. 22.—5. 19. 1 Cor. 1. 3.</hi> The one an<g ref="char:EOLhyphen"/>ſwers what we ſhould have ſuffered; the other, what we ſhould have done.</p>
+               <p n="6">6. That the parts of Juſtification are two.</p>
+               <p n="1">1. Imputation of Chriſt's Righteouſneſs, whereby the Believer hath his Sin covered, and is accepted, and dealt with as juſt in the ſight of God, <hi>Phil.</hi> 3. 8, 9.</p>
+               <p n="2">2. Remiſſion of Sins, whereby the Believer is freed from the guilt and puniſhment of Sin, <hi>Col. 1. 20, 21, 22. 1 Pet. 2. 24.</hi>
+               </p>
+               <p n="7">7. The moving cauſe of Juſtification is twofold.</p>
+               <p n="1">1. The inward moving Cauſe, is Gods Mercy, and free Love Grace, <hi>Rom.</hi> 3. 24.</p>
+               <p n="2">2. The outward moving Cauſe, is the Merit, Deſert and Efficacy of Chriſt's active and paſſive Obedience, or the whole Obedience of Chriſt; his obedient Life and Death, <hi>2 Cor. 5. 18, 19. Rom. 5. 9.</hi>
+               </p>
+               <p n="8">8. The formal Cauſe, is the Imputation of Chriſt's Righteouſneſs, <hi>Rom. 3. 22.</hi>
+               </p>
+               <p n="9">9. The inſtrumental Cauſe, Faith, <hi>Rom. 3. 28.</hi>
+               </p>
+               <p n="10">10. The final Cauſe, God's Glory, <hi>Eph. 1. 6.</hi>
+               </p>
+            </div>
+            <div n="20" type="chapter">
+               <head>CHAP. XX. <hi>Of Sanctification.</hi> 1 Theſ. 4. 3.</head>
+               <p>COncerning which, are five Principles.</p>
+               <p n="1">1. That whom God juſtifies, he ſanctifies, <hi>Rom. 8. 30. Ezek. 36. 27.</hi>
+               </p>
+               <p n="2">2. That to be truly ſanctified, is to dye to Sin, and to riſe again to newneſs of Life in Righteouſneſs, <hi>Rom.</hi> 6. 1, 2, 3, 4. or it's to repent and believe the Go<g ref="char:EOLhyphen"/>ſpel, <hi>Mark 1. 15.</hi>
+               </p>
+               <p n="3">
+                  <pb n="27" facs="tcp:57004:16"/>3. Without it is no Salvation, <hi>John 3. 5. Heb. 12. 14. 1 John 1, 7. 2 Cor. 5. 17.</hi>
+               </p>
+               <p n="4">4. That its Gods Work and Guift, <hi>Acts 5. 31.—11. 18. 2 Tim. 2. 26. 1 Cor. 1. 30. Ezek. 36. 27.—11. 19. Tit. 3. 5.</hi>
+               </p>
+               <p n="5">5. That our Sancttification is imperfect, whilſt we live in this World, <hi>1 John 1. 8. Eccl. 7. 20. Iſa. 46. 6. Prov. 24. 16. Jam. 3. 2.</hi>
+               </p>
+            </div>
+            <div n="21" type="chapter">
+               <head>CHAP. XXI. <hi>Of the Reſurrection.</hi> John 5. 28, 29.</head>
+               <p>HItherto, of the Principles that concern the third ſtate of Man; the fourth Eſtate of Man, is the Eſtate of Glory; and in this we are to conſider the three degrees of it.</p>
+               <p n="1">1. The Reſurrection.</p>
+               <p n="2">2. The laſt Judgment.</p>
+               <p n="3">3. The Glory of Heaven. The Principles that concerns the Reſurrection, are four.</p>
+               <p n="1">1. The Body of dead Men ſhall riſe out of the Duſt of the Earth, and their own Souls ſhall enter into them again, <hi>Job 19. 25, 26. Iſa. 26. 19. John 5. 29. 1 Cor. 15. 16.</hi>
+               </p>
+               <p n="2">2. The Bodies of all Men ſhall be raiſed, <hi>Joh 5. 28.</hi> great and ſmall, <hi>Rev. 20. 12, 13.</hi> Juſt and unjuſt, <hi>Acts 34. 15.</hi> Tho the Unjuſt ſhall not riſe in the ſame manner, nor by the ſame Power, that is, by Vertue of Chriſt's Reſurrection, <hi>Dan. 12. 2.</hi>
+               </p>
+               <p n="3">3. That the ſame Body which Men carry about with them in this World, ſhall riſe again, <hi>Job 19. 26, 27. Pſalm 34. 20. 1 Cor. 15. 53.</hi>
+               </p>
+               <p n="1">1. Becauſe every Man ſhall in his Body what he hath done, <hi>2 Cor. 5. 10.</hi>
+               </p>
+               <p n="2">2. Becauſe, elſe it would be abſurd, that any other ſhould be crowned, but that which ſuffered, or puniſhed, but that which ſinned.</p>
+               <p n="4">4. That this Reſurrection ſhall be at the end of the World, even the laſt day of it, <hi>John 6. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>4.</hi>
+               </p>
+            </div>
+            <div n="22" type="chapter">
+               <head>CHAP. XXII. <hi>Of the laſt Judgment. 2 Cor. 5. 10.</hi>
+               </head>
+               <p>HItherto, of the Reſurrection; the laſt Judgment follows. The Principles concerning it, are Seven.</p>
+               <p n="1">1. That there ſhall be a general Judgment, <hi>Jude 14. 18. Pſalm</hi> 9. 8.—50. 1. Heb. 9. 27, 28. <hi>Dan. 7. 9, 10.</hi>
+               </p>
+               <p n="2">
+                  <pb n="28" facs="tcp:57004:17"/>2. That Chriſt ſhall be Judg, and that in the Humane Nature, <hi>Acts 10 42.—17. 31. 2 Tim. 4. 1. John 5. 22.</hi>
+               </p>
+               <p n="3">3. That all Men ſhall be judged at that day, juſt and unjuſt, quick and dead, great and ſmall, <hi>Jude 1. 5. Rom. 14. 9. 2 Cor. 5. 10. Pſalm</hi> 9. 8.</p>
+               <p n="4">4. <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> all the ſecret things of Man's Nature or Works, ſhall then be brought to light, <hi>Luke 8. 17. 1 Cor. 4. 5. Rom. 2. 16.—2. 5.</hi>
+               </p>
+               <p n="5">5. It ſhall be at the laſt Day; the preciſe Day and Hour is not known to any Man or Angels, <hi>Mat. 24. 36.</hi>
+               </p>
+               <p n="6">6 The Judgment ſhall be moſt juſt and righteous, and all ſhall confeſs it, <hi>Rom. 14. 10. 2 Tim. 4. 8. Rom. 2. 5. Pſalm 9. 8.</hi>
+               </p>
+               <p n="7">7. The Judgment ſhall be according to mens Works, <hi>2 Cor. 5. 10. Rom. 2. 6.</hi>
+               </p>
+            </div>
+            <div n="23" type="chapter">
+               <head>CHAP. XXIII. <hi>Of the Glory of Heaven. 1 Cor. 2. 9.</hi>
+               </head>
+               <p>HItherto of the Reſurrection and laſt Judgment, the Glory of Heaven follows. The Principles concerning that, are four.</p>
+               <p n="1">1. Its unſpeakable, and in reſpect of us here on Earth, in<g ref="char:EOLhyphen"/>comprehenſible, 1 <hi>Cor. 2. 9. 1 John 3. 2. Col. 3. 4. 2 Cor. 14. 4. Rev. 2. 17. Pſalm 16. 11.—31. 19.</hi>
+               </p>
+               <p n="2">2. Eternal, <hi>Mat. 25. 46. 2 Tim. 1. 10. 1 Pet. 1. 4. 2 Cor. 5. 1.</hi>
+               </p>
+               <p n="3">3. It's the Gift of God, and proceeds only from his free Grace, and not for any merit in us, <hi>Luke 12. 32. John 3. 16. Rom. 6. 23.</hi>
+               </p>
+               <p n="4">4. The Elect only ſhall enjoy and obtain this Glory, <hi>1 Cor. 15. 50. Rev. 21. 27. 1 Cor. 6. 9. Rom. 2. 7, 10.</hi> Glorification is the bleſſed Eſtate of the Saints after this Life, wherein they ſhall have perfect and perpetual Freedom from all Sins and Miſery, and the full perfection of Grace and Glory, both in Soul and Body, <hi>Eph. 5. 27. Iſa. 60. 21. 1 Cor. 13. 10, 11, 12. Rev. 21. 4, 5.</hi>
+               </p>
+               <p>
+                  <hi>1 Tim. 1. 17. Eph.</hi> 3. 21.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <head>ERRATA.</head>
+            <p>PAge 1. Line 1. for <hi>Luke</hi> 14. r. 24. p. 3. l. 4. for <hi>Iſa.</hi> 44. 68. r. 6, 8. p. 4. l. 17. f. <hi>Luke</hi> 1. 11, 12. r. 51. 52. p. 5. l. 25. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>G<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n.</hi> 1. 6. r. 1. 26. p. 6. l. 16. dele 1 before <hi>John.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:57004:17"/>
+         </div>
+      </back>
+   </text>
+</TEI>
